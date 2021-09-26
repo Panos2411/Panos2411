@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Panos2411
+- 👋 Hi, I’m @Panos24
 - 👀 I’m interested in cfd and rockets
 - 🌱 I’m currently learning FORTRAN and python
 - 💞️ I’m looking to collaborate on cfd
